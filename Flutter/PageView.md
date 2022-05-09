@@ -66,7 +66,6 @@ class use_page_view extends StatelessWidget {
 ```
 
 <img width="200" height="450" align="center" src="https://i.imgur.com/m6IHGaj.gif">
----
 
 ## PageController
 
