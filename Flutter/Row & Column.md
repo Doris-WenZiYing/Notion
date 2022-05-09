@@ -20,16 +20,11 @@ SafeArea(
 );
 ```
 
-
-
-
 | ![](https://i.imgur.com/3vdTEda.jpg)| ![](https://i.imgur.com/fJUA4jw.jpg)|
 | -------- | -------- |
 | Row    | Column   |
 
-
-
-     
+ 
 
 # Row
 
@@ -50,7 +45,6 @@ MainAxisAlignment.spaceAround: 兩邊空間均分
 
 MainAxisAlignment.spaceEvenly: 均分空間
 
----
 ### crossAxisAlignment
 
 
@@ -68,10 +62,7 @@ CrossAxisAlignment.baseline: 縱向對齊 baseline
 
 ---
 
-:::info
-💡 Column 的話就和 Row 相反
-:::
-
+>💡 Column 的話就和 Row 相反
 
 # Column
 
@@ -92,7 +83,6 @@ MainAxisAlignment.spaceAround: 兩邊空間均分
 
 MainAxisAlignment.spaceEvenly: 均分空間
 
----
 ### crossAxisAlignment
 
 (為垂直，起始位置在中間，排列由上至下)
@@ -128,8 +118,7 @@ Column(
     ],
   ),
 ```
-
-| ![](https://i.imgur.com/ljEq9cJ.png =200x400)  | ![](https://i.imgur.com/wmLmWcX.png =200x400) | ![](https://i.imgur.com/bWkJSPX.png =200x400) |  ![](https://i.imgur.com/krlSy5d.png =200x400) |
+| <img src="https://i.imgur.com/ljEq9cJ.png">  |<img src="https://i.imgur.com/wmLmWcX.png"> | <img src="https://i.imgur.com/bWkJSPX.png"> | <img src="https://i.imgur.com/krlSy5d.png"> |
 | -------- | -------- | --- | -------- |
 | Row - 主軸副軸同時在center    | Cloumn - 主軸副軸同時在center     | Cloumn - 主軸副軸同時在start     |Row - 主軸副軸同時在start
 
