@@ -1,6 +1,6 @@
 ###### Tags: `Flutter` `Dart`
 # Flutter Intro
-## 一開始給的程式碼：
+<font size=8> 一開始給的程式碼：</font>
 
 ```dart
 import 'package:flutter/material.dart';
@@ -80,8 +80,6 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 ```
 
----
-
 ## 分檔案的main
 
 ```dart
@@ -103,8 +101,6 @@ class MyApp extends StatelessWidget {
 }
 ```
 
----
-
 ## StatelessWidget & StatefulWidget
 
 Flutter 狀態分成兩種，無狀態(StatelessWidget)和有狀態(StatefulWidget)
@@ -117,17 +113,14 @@ Flutter 狀態分成兩種，無狀態(StatelessWidget)和有狀態(StatefulWidg
     
     StatelessWidget是靜態的，在初始化後，並不會重建自己。反之StatefulWidget可以透過setState再次重繪
     
-
----
-
 ## 狀態選擇方式
 
 - 大部分使用StatelessWidget，當需要setState方式更新狀態時，才需要使用StatefulWidget狀態
 - StatefulWidget 運算成本比較昂貴，勿濫用，若需使用盡量安排使用在末子節點上，且讓元件數量降至最少，減少降低系統重繪的成本
 
 
-:::info
-💡 透過<font color="red">`stless`</font> 或 <font color="red">`stful`</font> 關鍵字，快速生成程式碼，節省時間。
-:::
+
+>💡 透過<font color="red">`stless`</font> 或 <font color="red">`stful`</font> 關鍵字，快速生成程式碼，節省時間。
+
 
 
