@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/epCtheh6Qg6WbSESx9_3Wg/badge)](https://hackmd.io/epCtheh6Qg6WbSESx9_3Wg)
 ###### Tags: `Flutter` `Dart`
 # Flutter Intro
 <font size=8> 一開始給的程式碼：</font>
