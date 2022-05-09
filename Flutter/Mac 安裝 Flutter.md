@@ -1,4 +1,5 @@
-###### tags: `Flutter` `Mac`
+[![hackmd-github-sync-badge](https://hackmd.io/-HOsXE9kRnumvVI5T6AzJw/badge)](https://hackmd.io/-HOsXE9kRnumvVI5T6AzJw)
+###### Tags: `Flutter` `Mac`
 # **Mac 安裝 Flutter**
 
 1. Flutter 需要 Git 才能安裝，建議安裝 Xcode，安裝 Xcode 時會幫忙安裝 Git
