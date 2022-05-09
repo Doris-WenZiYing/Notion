@@ -10,8 +10,9 @@
 
 ```dart
 const Expanded({
-int flex = 1,
-required this.child}
+  int flex = 1,
+  required this.child
+  }
 )
 ```
 
