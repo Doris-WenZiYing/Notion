@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/epCtheh6Qg6WbSESx9_3Wg/badge)](https://hackmd.io/epCtheh6Qg6WbSESx9_3Wg)
 ###### Tags: `Flutter` `Dart`
 # Center
 
@@ -23,5 +24,7 @@ Center(
   ),
 );
 ```
-![](https://i.imgur.com/MantYCm.png =200x)
+<img width="200" height="450" align="center" src="https://i.imgur.com/MantYCm.png">
+
+
 
