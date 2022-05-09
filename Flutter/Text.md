@@ -9,7 +9,6 @@
 - style：可以設定字體大小、顏色等樣式
 - textDirection：文字顯示方向
 
----
 
 ## maxLine
 
@@ -19,8 +18,7 @@ Text(
     style: TextStyle(fontSize: 30)
 )
 ```
-![](https://i.imgur.com/RIiFCnk.png =200x)
-
+<img width="200" height="450" align="center" src="https://i.imgur.com/RIiFCnk.png">
 
 ```dart
 Text(
@@ -29,9 +27,7 @@ Text(
   style: TextStyle(fontSize: 30)//設定字體大小
 ),
 ```
-![](https://i.imgur.com/xmUJNGh.png =200x)
-
----
+<img width="200" height="450" align="center" src="https://i.imgur.com/xmUJNGh.png">
 
 ## TextStyle
 
