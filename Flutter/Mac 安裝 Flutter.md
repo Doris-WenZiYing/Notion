@@ -6,9 +6,9 @@
 2. 下載 [Flutter SDK](https://flutter.dev/docs/get-started/install/macos) 與 [Android SDK](https://developer.android.com/studio)
 3. 設定PATH
 
-    :::info
-    添加指令bin到path(environment 環境) 
-    :::
+    
+    >💡添加指令bin到path(environment 環境) 
+
 
     - 查看path `echo $PATH`
     
