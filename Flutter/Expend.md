@@ -1,5 +1,5 @@
 [![hackmd-github-sync-badge](https://hackmd.io/epCtheh6Qg6WbSESx9_3Wg/badge)](https://hackmd.io/epCtheh6Qg6WbSESx9_3Wg)
-###### tags: `Flutter` `Dart` `Flex`
+###### Tags: `Flutter` `Dart` `Flex`
 # Expanded
 
 ### Expanded作用 —— 空間配置
