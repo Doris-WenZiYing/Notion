@@ -1,6 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/epCtheh6Qg6WbSESx9_3Wg/badge)](https://hackmd.io/epCtheh6Qg6WbSESx9_3Wg)
 ###### Tags: `Flutter` `Dart`
 # Container
-
 
 ### Container作用 —— 容器
 
@@ -24,10 +24,11 @@ Container({
 })
 ```
 
+<img width="200" height="450" align="center" src="https://i.imgur.com/Oj7qsIX.png">
 
- | On the right is a Container     | ![](https://i.imgur.com/Oj7qsIX.png =200x) 
- | --- |:------------------------------------------:|
-
+<div>
+This is a Container.
+</div>
 
 ```dart
 import 'package:flutter/material.dart';
@@ -53,8 +54,6 @@ class use_container extends StatelessWidget {
   }
 }
 ```
-
----
 
 ### AnimatedContainer作用 —— 使Container有動畫
 
@@ -126,8 +125,6 @@ class _use_animated_containerState extends State<use_animated_container> {
 }
 ```
 
----
-
 ## color屬性
 
 
@@ -148,8 +145,6 @@ Container(color: Color(0xFFFF0000))
 ```dart
 Container(color: Color.fromARGB(255, 255, 00, 00))
 ```
-
----
 
 ## alignment 屬性
 
@@ -172,7 +167,6 @@ Alignment.topLeft：左上角
 
 Alignment.topRight：右上角
 
----
 
 ## constraints 屬性
 
@@ -193,11 +187,11 @@ Center(
               minWidth: 50)))
 ```
 
-| 透過 constraints 畫出一個正方形   | ![](https://i.imgur.com/mDi04xi.png =200x)
- | --- |:------------------------------------------:|
+<img width="200" height="450" align="center" src="https://i.imgur.com/mDi04xi.png">
 
-
----
+<div>
+透過 constraints 畫出一個正方形
+</div>
 
 ## margin屬性
 
@@ -216,10 +210,7 @@ Center(
       ),
     ))
 ```
-![](https://i.imgur.com/VG7Ao2n.png =200x)
-
-
-
+<img width="200" height="450" align="center" src="https://i.imgur.com/VG7Ao2n.png">
 
 - EdgeInsets.only()，分別設定四邊的不一樣間距
 
@@ -237,11 +228,8 @@ Center(
       ),
     );
 ```
-![](https://i.imgur.com/y5ctGzu.png =200x)
 
-
-
----
+<img width="200" height="450" align="center" src="https://i.imgur.com/y5ctGzu.png">
 
 ## padding 屬性
 
@@ -259,5 +247,6 @@ Center(
       padding: EdgeInsets.only(left: 50, top: 100, right: 100, bottom: 10),
     ));
 ```
-![](https://i.imgur.com/BdantCF.png =200x)
+
+<img width="200" height="450" align="center" src="https://i.imgur.com/BdantCF.png">
 
