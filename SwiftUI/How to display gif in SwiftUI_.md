@@ -1,6 +1,6 @@
 ###### tags: `SwiftUI` `Picture` `life cycle`
 
-# How to display gif in SwiftUI?
+# How to display gif in SwiftUI? 
 
 In SwiftUI, gif is not sopported in Image View, if you try `Image(”your_gif_name”)`, it’ll only show a blank page. There are many ways to do it, like using `CGAnimateImageDataWithBloc`, separate your gif into series of image and use `animatedImage` to play those pictures and so on, but I found out that you can also use `WKWebView` (in WebKit) to accomplish it. So let’s get started. 👍  
 
