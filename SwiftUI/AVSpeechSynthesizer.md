@@ -40,7 +40,6 @@ You can notice that above the code we have a enum called `AVSpeechBoundary`. `AV
 ```swift
 enum AVSpeechBoundary : Int, @unchecked Sendable
 ```
-
 # Reference
 
 - [AVFoundation](https://developer.apple.com/documentation/avfoundation/)
